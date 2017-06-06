@@ -117,3 +117,5 @@ Hotfix branches are used to create emergency fixes:
 GitFlow hotfix branch
 
 They are branched directly from a tagged release in the master branch, and when finished are merged back into both master and develop to make sure that the hotfix isn’t accidentally lost when the next regular release occurs.
+
+test de pull request
